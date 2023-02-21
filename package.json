@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/Moses-chibuike/Awesome-books-ES6/issues"
   },
-  "homepage": "https://github.com/Moses-chibuike/Awesome-books-ES6#readme"
+  "homepage": "https://github.com/Moses-chibuike/Awesome-books-ES6#readme",
+  "dependencies": {
+    "luxon": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "eslint-plugin-react": "^7.32.2",
+    "stylelint": "^15.2.0",
+    "stylelint-config-standard": "^30.0.1"
+  }
 }
